@@ -63,7 +63,11 @@
 
       ls
 
-      cd DDOSS.py
+
+#Step 7:  direction 
+      cd server_down
+
+      python DDOSS.py
       
 # Step 4: Save the script
     nano godofwar.py
