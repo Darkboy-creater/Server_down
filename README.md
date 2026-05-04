@@ -49,6 +49,7 @@
     termux-setup-storage
 
 
+
 #Step 3: git install 
       
       pkg install git
@@ -56,6 +57,14 @@
 #STEP 4: FILE DOWNLOAD IN OPERATING SYSTEM 
 
      git clone https://github.com/Darkboy-creater/Server_down.git
+
+
+#Step 6: file show 
+
+      ls
+
+      cd DDOSS.py
+      
 # Step 4: Save the script
     nano godofwar.py
 # Paste the FULL code above
